@@ -1,28 +1,28 @@
 
-# 🔐 Vigenère Crypto
+#  Vigenère Crypto
 
 Implementação completa da Cifra de Vigenère, com suporte para:
-- 🔸 Cifrar mensagens
-- 🔸 Decifrar mensagens
-- 🔍 Realizar ataque de análise de frequência para quebra da cifra
+-  Cifrar mensagens
+-  Decifrar mensagens
+-  Realizar ataque de análise de frequência para quebra da cifra
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
-- 📜 Cifra e decifra mensagens usando chave alfabética
-- 🕵️ Descobre a chave e decifra mensagens cifradas utilizando análise de frequência
+-  Cifra e decifra mensagens usando chave alfabética
+- 🕵 Descobre a chave e decifra mensagens cifradas utilizando análise de frequência
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Python 3 (100% puro, sem dependências externas)
 
-## 📂 Estrutura
+##  Estrutura
 
 ```
 src/vigenere.py           # Código principal da cifra
 tests/test_vigenere.py    # Testes simples de funcionamento
 ```
 
-## 🏃‍♂️ Como executar
+##  Como executar
 
 1. Clone o repositório:
 
@@ -43,7 +43,7 @@ python src/vigenere.py
 python tests/test_vigenere.py
 ```
 
-## ✅ Exemplos
+##  Exemplos
 
 ```python
 from src.vigenere import cifrar_vigenere, decifrar_vigenere, ataque_vigenere
