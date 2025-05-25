@@ -9,7 +9,7 @@ Implementação completa da Cifra de Vigenère, com suporte para:
 ##  Funcionalidades
 
 -  Cifra e decifra mensagens usando chave alfabética
-- 🕵 Descobre a chave e decifra mensagens cifradas utilizando análise de frequência
+-  Descobre a chave e decifra mensagens cifradas utilizando análise de frequência
 
 ##  Tecnologias
 
@@ -62,6 +62,6 @@ print("Chave encontrada:", chave_recuperada)
 print("Texto decifrado pelo ataque:", texto_recuperado)
 ```
 
-## 📜 Licença
+##  Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
