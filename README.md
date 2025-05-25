@@ -1,1 +1,11 @@
-# cybersec
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.env
+*.venv
+.idea/
+.vscode/
